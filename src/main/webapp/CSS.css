@@ -1,0 +1,43 @@
+@charset "UTF-8";
+.Logotipo{
+	font-size: 3rem;
+	text-align: left;
+	font-weight: bold;
+	margin-top: 0%;
+}
+.menu {
+	display: flex;
+ 	 list-style-type: none;
+	 color: rgb(135, 206, 235);
+	 margin-bottom: 30px;
+	 font-size: 15px;
+	 text-decoration: none;
+}
+.menu :hover {
+	color: black;
+}
+
+.caja{
+	border: solid red;
+	width: 80% max-content 850px;
+	 background-color: gray;
+
+}
+.provincia{
+	font-size: 2rem;
+	margin-bottom: 0,5em;
+	color:red;
+	font-weight: bold;
+	font-family: Verdana;
+}
+.lista{
+	list-style-type: none;	
+	color: white;
+	margin-left: -50%;
+	margin-top: 15px;
+}
+.leyendo{
+	color: blue;
+	text-decoration: underline;
+	
+}
