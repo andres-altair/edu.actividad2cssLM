@@ -10,6 +10,7 @@
  	 list-style-type: none;
 	 color: rgb(135, 206, 235);
 	 margin-bottom: 30px;
+	 margin-right: 1rem;
 	 font-size: 15px;
 	 text-decoration: none;
 }
@@ -30,11 +31,13 @@
 	font-weight: bold;
 	font-family: Verdana;
 }
-.lista{
-	list-style-type: none;	
-	color: white;
-	margin-left: -50%;
+.p{
+	list-style-position: -30px;
+	color: white;	
+	margin-left: -30px;
+	text-align: left;
 	margin-top: 15px;
+
 }
 .leyendo{
 	color: blue;
